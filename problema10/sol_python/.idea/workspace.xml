@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0b5a0c0-2de3-4cf2-9e42-e8be60b96f89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../problema08/sol_python/Problema08/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../problema09/sol_python/Problema09/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problema10/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../problema06/sol_python/Problema06/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../problema06/sol_python/Problema06/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../problema07/sol_python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../problema07/sol_python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../problema07/sol_python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../problema07/sol_python/Problema07/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../problema07/sol_python/Problema07/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IEw6qvCJ36NChdQaveYpC48ET5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0b5a0c0-2de3-4cf2-9e42-e8be60b96f89" name="Changes" comment="" />
+      <created>1669759877130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669759877130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
